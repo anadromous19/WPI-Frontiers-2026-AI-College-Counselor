@@ -1,0 +1,28 @@
+# Secrets / local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Private student information
+student_profile.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

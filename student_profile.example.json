@@ -1,0 +1,22 @@
+{
+  "grade_level": "11",
+  "intended_major": "Computer Science",
+  "interests": [
+    "robotics",
+    "computer science",
+    "art"
+  ],
+  "college_preferences": {
+    "country": [
+      "United States",
+      "Canada"
+    ],
+    "campus_environment": "open to options"
+  },
+  "support_interests": [
+    "academic advising",
+    "financial aid information",
+    "tutoring and mentoring"
+  ],
+  "note": "Example data only. Do not commit a real student's private profile."
+}
