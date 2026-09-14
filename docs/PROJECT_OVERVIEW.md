@@ -6,7 +6,7 @@ The presentation frames the project around barriers that can reduce student inte
 
 ## Proposed solution
 
-The team built an AI-powered college-counseling chatbot intended to address student needs during the college process. A central design principle in the presentation is **"HELP, not do."**
+Team built an AI-powered college-counseling chatbot intended to address student needs during the college process. A central design principle in the presentation is **"HELP, not do."**
 
 The prototype was intended to increase engagement/motivation, reduce application-related stress, be used alongside other resources, and function as a tool rather than replace existing support.
 
