@@ -9,3 +9,4 @@
 
 - **Ajay Goverdhan**
 - **Bruno Diaz Morales**
+- **Professor Chun-Kit Ngan**
