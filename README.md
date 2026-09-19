@@ -89,7 +89,7 @@ This was a **team project by Ajay Goverdhan and Bruno Diaz Morales** during WPI 
 
 ## Security
 
-The original classroom source contained an API credential directly in the Python file. This portfolio version removes it and reads `OPENAI_API_KEY` from the environment. If the original credential is still active, revoke/rotate it before publishing. See [`SECURITY.md`](SECURITY.md).
+The original classroom source contained an API credential directly in the Python file. This portfolio version removes it and reads `OPENAI_API_KEY` from the environment. See [`SECURITY.md`](SECURITY.md).
 
 ## Presentation Video
 
