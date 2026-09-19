@@ -26,3 +26,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+# Visual Studio temporary files
+**/.vs/

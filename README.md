@@ -92,3 +92,14 @@ This was a **team project by Ajay Goverdhan and Bruno Diaz Morales** during WPI 
 ## Security
 
 The original classroom source contained an API credential directly in the Python file. This portfolio version removes it and reads `OPENAI_API_KEY` from the environment. If the original credential is still active, revoke/rotate it before publishing. See [`SECURITY.md`](SECURITY.md).
+
+## Presentation Video
+
+Watch our final WPI Frontiers 2026 project presentation:
+
+[▶ Watch / Download the Presentation Video](https://github.com/anadromous19/WPI-Frontiers-2026-AI-College-Counselor/releases/download/v1.0/WPI-Frontiers-2026-AI-College-Counselor-Presentation.mov)
+
+**Presenters:** Ajay Goverdhan and Bruno Diaz Morales  
+**Professor:** Chun-Kit Ngan  
+**Course:** Using ChatGPT API and Python Programming for Conversational AI  
+**WPI Frontiers 2026**
