@@ -79,11 +79,9 @@ AI-generated charts or college comparisons should be treated as demonstrations u
 
 ## Presentation
 
-A public-safe copy is included at:
+A copy is included at:
 
 [`docs/WPI_Frontiers_2026_AI_College_Counselor_Public_Presentation.pdf`](docs/WPI_Frontiers_2026_AI_College_Counselor_Public_Presentation.pdf)
-
-The public copy excludes the original team-introduction slide because it included current school/location/age details and a personal photo.
 
 ## Credits
 
